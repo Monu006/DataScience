@@ -11,6 +11,6 @@ elif (marks>=60 and marks<=80):
 elif (marks<60):
     print("Do Hard work! you got 'D' Grade")
 else:
-    print('Seems Invalid Input')
+    print('Seems Invalid Input!!')
 
 
