@@ -12,5 +12,6 @@ elif (marks<60):
     print("Do Hard work! you got 'D' Grade")
 else:
     print('Seems Invalid Input!!')
+    print('Changes made in code')
 
 
